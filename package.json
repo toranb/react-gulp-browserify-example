@@ -1,13 +1,10 @@
 {
   "dependencies": {
     "gulp": "*",
-    "gulp-react": "*",
-    "gulp-concat": "*",
-    "gulp-filter": "*",
-    "gulp-es6-module-transpiler": "*",
+    "react": "*",
+    "browserify": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
     "jshint": "*"
-  },
-  "scripts": {
-    "postinstall": "bower install"
   }
 }
